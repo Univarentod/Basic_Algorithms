@@ -1,3 +1,3 @@
-# Common Algorithms
+# Basic Algorithms
 
-Implementations of some common algorithms.
+Implementations of some basic common algorithms.
